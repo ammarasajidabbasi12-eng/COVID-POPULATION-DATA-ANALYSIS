@@ -246,8 +246,7 @@ This dashboard includes:
 ## Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
-```
+git clone https://github.com/ammarasajidabbasi12-eng/COVID-POPULATION-DATA-ANALYSIS.git
 
 ## Install Dependencies
 

@@ -145,7 +145,7 @@ covid_population_data_analysis/
 │   ├── visualization.py
 │   └── main.py
 │
-├── screenshots/
+├── output/
 │   └── dashboard.png
 │
 └── README.md
